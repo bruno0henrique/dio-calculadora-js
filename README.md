@@ -1,9 +1,9 @@
 
 # 😁Hi there!
 
-Me chamo Bruno, tenho 21 anos, estou fazendo superior em ADS, além de cursar desenvolvimento Java pela [Ultima School](https://ultima.school/sobrenos/), também faço parte de uma bolsa Santander, estudando para ser um Full-Stack Java, através da plataforma [DIO](https://www.dio.me).
+Me chamo Bruno, tenho 21 anos, estou fazendo superior em ADS, além de cursar desenvolvimento Java pela [Ultima School](https://ultima.school/sobrenos/), também faço parte de uma bolsa Santander, estudando para ser um Full-Stack Java, através da plataforma [DIO](https://www.dio.me). <p><img width = "400" align = right src="pingo.gif"></p>
 
-<img src="/b/codigos/dio-calculadora-js/pingo.gif">
+
 
 ---
 
